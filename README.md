@@ -1,4 +1,8 @@
-# Tictactoe
+## About
+
+A simple tic-tac-toe game built with minimal components in Angular with Nebula Cosmic theme
+
+## Tech
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
